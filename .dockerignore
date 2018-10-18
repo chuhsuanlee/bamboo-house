@@ -1,0 +1,10 @@
+# report file
+src/Downloads/
+src/Reports/
+
+# git
+.git
+.gitignore
+
+# python
+*.py[cod]
