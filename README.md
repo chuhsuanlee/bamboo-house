@@ -9,9 +9,9 @@ After cloning this repository to your local machine, substitute the **API_KEY** 
 There are some commands you can use as indicated in [Makefile](Makefile), or simply type `make help`, it will show the Make commands that can be used.
 
 The main tasks in this project are:
-    * Download the historical daily data as a csv file and store it in [Downloads folder](src/Downloads/).
-    * Compute the average price of each week and store it on a csv file in [Reports folder](src/Reports/).
-    * Compute what is the week that had the greatest relative span on closing prices and print this on screen.
+* Download the historical daily data as a csv file and store it in [Downloads folder](src/Downloads/).
+* Compute the average price of each week and store it on a csv file in [Reports folder](src/Reports/).
+* Compute what is the week that had the greatest relative span on closing prices and print this on screen.
 
 Example output after executing `make run`:
 ```bash
