@@ -14,7 +14,7 @@ The main tasks in this project are:
 * Compute what is the week that had the greatest relative span on closing prices and print this on screen.
 
 Example output after executing `make run`:
-```bash
+```
 Successfully read 1661 daily data.
 The greatest relative span happened in the week between 2015-01-12 and 2015-01-18 with the span of 0.50634769.
 ```
